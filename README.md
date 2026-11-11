@@ -5,11 +5,7 @@
 
 <!-- PROFILE PICTURE -->
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME.png"
-       width="150"
-       height="150"
-       style="border-radius:50%;"
-       alt="GitHub Profile Picture"/>
+  <img src="./developer-banner.png" width="100%" alt="Developer working on laptop - Data Science and AI"/>
 </p>
 
 <h2 align="center">🚀 Aspiring Data Scientist | AI Engineer</h2>
