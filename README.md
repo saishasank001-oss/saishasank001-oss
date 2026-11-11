@@ -5,7 +5,7 @@
 
 <!-- PROFILE PICTURE -->
 <p align="center">
-  <img src="./developer-banner.png" width="100%" alt="Developer working on laptop - Data Science and AI"/>
+  <img src="./developer-banner.png" width="100%" alt="Developer Banner"/>
 </p>
 
 <h2 align="center">🚀 Aspiring Data Scientist | AI Engineer</h2>
