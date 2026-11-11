@@ -1,7 +1,7 @@
 # 👋 Hi, I'm mugada-sashank- Sai
 
 <!-- 🌌 DARK DATA SCIENCE BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shasank%20Sai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=55&descSize=15)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shasank%20Sai&fontSize=45&fontColor=ffffff)
 
 <!-- PROFILE PICTURE -->
 <p align="center">
