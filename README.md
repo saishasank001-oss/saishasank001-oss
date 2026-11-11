@@ -31,30 +31,29 @@
 - 🎯 Goal: Become a Data Scientist / AI Engineer
 
 ---
-
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+<h3 align="center">💻 Programming Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </p>
 
-### Data Science & AI
+<h3 align="center">🤖 Data Science & AI</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### Web Development
+<h3 align="center">🌐 Web Development</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express" />
 </p>
 
-### Database & Tools
+<h3 align="center">🗄️ Database & Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
 </p>
 
