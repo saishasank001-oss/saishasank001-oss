@@ -1,7 +1,7 @@
 # 👋 Hi, I'm mugada-sashank- Sai
 
 <!-- 🌌 DARK DATA SCIENCE BANNER -->
-a_clean_modern_github_readme_header_style_image_w (2).png
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shasank%20Sai&fontSize=45&fontColor=ffffff)
 <!-- PROFILE PICTURE -->
 <p align="center">
   <img src="./developer-banner.png" width="100%" alt="Developer Banner"/>
